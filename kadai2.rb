@@ -46,7 +46,7 @@ p user[:name]
 puts "=============================="
 
 #Q18. 以下のハッシュから name の値を取り出して下さい
-user = {user: {name: "satou", age: 33}}
+user　= {user: {name: "satou", age: 33}}
 puts user[:user][:name]
 puts "=============================="
 
